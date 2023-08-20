@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nam1001" alt="nam1001" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🔭 I’m currently working at **Sensegrass**
+
+- 🌱 I’m currently learning **NextJs,AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nam1001/](https://github.com/Nam1001/)
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **dipanshusrivastava04@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/125kycq4GNsbGBaIIVB_CQqjj5ap2qKDB/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/125kycq4GNsbGBaIIVB_CQqjj5ap2qKDB/view?usp=drive_link](https://drive.google.com/file/d/125kycq4GNsbGBaIIVB_CQqjj5ap2qKDB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
